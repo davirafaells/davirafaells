@@ -11,7 +11,7 @@
   </a>
   &nbsp;
   <a href="mailto:davirafaels@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-davirafaels@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" height="32" alt="Email" />
+    <img src="https://img.shields.io/badge/E-mail-davirafaels@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" height="32" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/davirafaells">
