@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Davi Rafael Silva </h1>
+<h1 align="center">Olá, sou Davi Rafael Silva 👋</h1>
 
 <p align="center">
   <b>Analista de Data Quality | Desenvolvedor Freelancer</b><br/>
@@ -41,6 +41,8 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" align="middle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
 </p>
@@ -74,6 +76,34 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 
 - 🥋 **Yellow Belt Six Sigma** – Metodologias DMAIC e PDCA aplicadas à melhoria contínua e qualidade de dados  
 - 🎤 **20º Congresso Latino-americano de Software Livre e Tecnologias Abertas (FISL)** – Participação em palestras e workshops sobre inovação e arquitetura de software  
+
+---
+
+## 🚀 Projetos
+
+### Sistema de Vistoria Técnica — Irmel Prestação de Serviços
+> Sistema completo de gestão de vistorias de medidores de energia elétrica, do campo ao relatório final.
+
+**O que faz:**
+- Vistoriadores registram medidores em campo com fotos, diagnóstico e classificação
+- Técnicos recebem ordens de serviço e registram manutenções
+- Supervisores acompanham relatórios, filtram por rota/status e exportam PDF
+- App mobile Android com **modo offline real** — baixa rota completa, executa vistorias sem sinal e sincroniza ao reconectar
+
+**Stack:**
+
+| Camada | Tecnologia |
+|---|---|
+| Backend | PHP 8.1 + MySQL 5.7 |
+| Frontend Web | HTML + Bootstrap 5.3 + JavaScript |
+| API REST | PHP com autenticação Bearer Token |
+| App Mobile | Capacitor 5 + JS vanilla |
+| Banco local (app) | SQLite (@capacitor-community/sqlite) |
+| Geração de PDF | FPDF |
+| Câmera / Rede | @capacitor/camera + @capacitor/network |
+| QR Code | html5-qrcode |
+| Build APK | Android Studio + Gradle |
+| Hospedagem | Hostgator Brasil |
 
 ---
 
