@@ -1,7 +1,7 @@
-<h1 align="center">Olá, sou Davi Rafael Silva </h1>
+<h1 align="center">Olá, sou Davi Rafael Silva 👋</h1>
 
 <p align="center">
-  <b>Analista de Data Quality | Desenvolvedor Full Stack Freelancer</b><br/>
+  <b>Analista de Data Quality | Desenvolvedor Freelancer</b><br/>
   Imbituba, Santa Catarina, Brasil 🇧🇷
 </p>
 
@@ -10,23 +10,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-davirafaelsilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:davirafaels@hotmail.com">
-    <img src="https://img.shields.io/badge/E-mail-davirafaels@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" height="32" alt="Email" />
-  </a>
-  &nbsp;
   <a href="https://github.com/davirafaells">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
   </a>
+  <br/><br/>
+  📧 davirafaels@hotmail.com
 </p>
 
 ---
 
 ## 🙋‍♂️ Sobre mim
 
-Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e engenharia de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, entregando soluções SaaS com pipelines ETL e integrações via API REST.
+Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e análise de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, desenvolvendo aplicações web integradas com foco em automação de processos e integrações via API REST.
 
 - 🔎 Especializado em **Data Quality, SQL, ETL e automação de processos**
-- 📊 Criação de dashboards e relatórios no **Power BI**
+- 📊 Conhecimento em **Power BI** para dashboards e acompanhamento de indicadores
 - 🐍 Desenvolvimento em **Python (Pandas, FastAPI)**
 - 🏆 Certificado **Yellow Belt Six Sigma** – metodologias DMAIC e PDCA
 - 🌐 Inglês intermediário – leitura de documentação técnica
