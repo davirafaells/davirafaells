@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
   </a>
   <br/><br/>
-  📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="412520372833202720242d3201292e352c20282d6f222e2c">[email&#160;protected]</a>
+  📧 davirafaels@hotmail.com
 </p>
 
 ---
@@ -26,6 +26,7 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 - 🔎 Experiência prática em **Data Quality, SQL e ETL** em ambiente corporativo de grande porte
 - 📊 Conhecimento em **Power BI** para dashboards e acompanhamento de indicadores
 - 🐍 Desenvolvimento em **Python (Pandas, FastAPI)**
+- 🐘 Desenvolvimento Full Stack com **PHP, MySQL, API REST e app mobile Android**
 - 🏆 Certificado **Yellow Belt Six Sigma** – metodologias DMAIC e PDCA
 - 🌐 Inglês intermediário – leitura de documentação técnica
 - ⚖️ Atuação em conformidade com **LGPD e segurança da informação**
@@ -48,7 +49,8 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 </p>
 
 **Dados & BI:** SQL · PostgreSQL · ETL · Power BI · Data Quality · LGPD  
-**Back-end:** Python · FastAPI · Pandas · APIs REST  
+**Back-end:** Python · FastAPI · Pandas · APIs REST · PHP  
+**Mobile:** Capacitor · SQLite · Android  
 **Metodologias:** Six Sigma (DMAIC/PDCA) · Análise de Requisitos · Homologação  
 
 ---
@@ -103,7 +105,6 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 | Câmera / Rede | @capacitor/camera + @capacitor/network |
 | QR Code | html5-qrcode |
 | Build APK | Android Studio + Gradle |
-| Hospedagem | Hostgator Brasil |
 
 ---
 
