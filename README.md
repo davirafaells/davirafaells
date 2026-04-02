@@ -12,9 +12,7 @@
   <a href="/cdn-cgi/l/email-protection#84e0e5f2edf6e5e2e5e1e8f7c4ecebf0e9e5ede8aae7ebe9">
     <img src="https://img.shields.io/badge/Email-davirafaels@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/davirafaells">
-    <img src="https://img.shields.io/github/followers/davirafaells?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
-  </a>
+  
 </p>
 
 ---
