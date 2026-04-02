@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Davi Rafael Silva 👋</h1>
+<h1 align="center">Olá, sou Davi Rafael Silva </h1>
 
 <p align="center">
   <b>Analista de Data Quality | Desenvolvedor Freelancer</b><br/>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
   </a>
   <br/><br/>
-  📧 davirafaels@hotmail.com
+  📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="412520372833202720242d3201292e352c20282d6f222e2c">[email&#160;protected]</a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e análise de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, desenvolvendo aplicações web integradas com foco em automação de processos e integrações via API REST.
 
-- 🔎 Especializado em **Data Quality, SQL, ETL e automação de processos**
+- 🔎 Experiência prática em **Data Quality, SQL e ETL** em ambiente corporativo de grande porte
 - 📊 Conhecimento em **Power BI** para dashboards e acompanhamento de indicadores
 - 🐍 Desenvolvimento em **Python (Pandas, FastAPI)**
 - 🏆 Certificado **Yellow Belt Six Sigma** – metodologias DMAIC e PDCA
@@ -81,5 +81,4 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davirafaells&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davirafaells&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-</p>
+  <img height="160em" src="https://github-readme-stats-sigma-fi
