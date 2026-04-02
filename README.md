@@ -1,32 +1,39 @@
 <h1 align="center">Olá, sou Davi Rafael Silva 👋</h1>
+
 <p align="center">
   <b>Analista de Data Quality | Desenvolvedor Full Stack Freelancer</b><br/>
   Imbituba, Santa Catarina, Brasil 🇧🇷
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/davirafaelsilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-davirafaelsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:davirafaels@hotmail.com">
+  <a href="/cdn-cgi/l/email-protection#84e0e5f2edf6e5e2e5e1e8f7c4ecebf0e9e5ede8aae7ebe9">
     <img src="https://img.shields.io/badge/Email-davirafaels@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  <a href="https://github.com/davirafaells">
+    <img src="https://img.shields.io/github/followers/davirafaells?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
 
-🙋‍♂️ Sobre mim
-Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em qualidade e engenharia de dados. Atualmente trabalho como Analista de Data Quality Júnior na Neogrid, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como Desenvolvedor Full Stack Freelancer, entregando soluções SaaS com pipelines ETL e integrações via API REST.
+---
 
-🔎 Especializado em Data Quality, SQL, ETL e automação de processos
-📊 Criação de dashboards e relatórios no Power BI
-🐍 Desenvolvimento em Python (Pandas, FastAPI)
-🏆 Certificado Yellow Belt Six Sigma – metodologias DMAIC e PDCA
-🌐 Inglês intermediário – leitura de documentação técnica
-⚖️ Atuação em conformidade com LGPD e segurança da informação
+## 🙋‍♂️ Sobre mim
 
+Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e engenharia de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, entregando soluções SaaS com pipelines ETL e integrações via API REST.
 
-🛠️ Tecnologias & Ferramentas
+- 🔎 Especializado em **Data Quality, SQL, ETL e automação de processos**
+- 📊 Criação de dashboards e relatórios no **Power BI**
+- 🐍 Desenvolvimento em **Python (Pandas, FastAPI)**
+- 🏆 Certificado **Yellow Belt Six Sigma** – metodologias DMAIC e PDCA
+- 🌐 Inglês intermediário – leitura de documentação técnica
+- ⚖️ Atuação em conformidade com **LGPD e segurança da informação**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" align="middle" />
@@ -38,31 +45,47 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Instituto Federal 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
 </p>
-Dados & BI: SQL · PostgreSQL · ETL · Power BI · Data Quality · LGPD
-Back-end: Python · FastAPI · Pandas · APIs REST
-Metodologias: Six Sigma (DMAIC/PDCA) · Análise de Requisitos · Homologação
 
-💼 Experiência Profissional
-PeríodoEmpresaCargo11/2025 – atualNeogridAnalista de Data Quality Júnior06/2025 – atualFreelancerDesenvolvedor Full Stack09/2024 – 11/2025NeogridEstagiário – Data Quality05/2024 – 09/2024Selsyn TecnologiaEstagiário – TI04/2022 – 04/2024Santos Brasil (Porto de Imbituba)Jovem Aprendiz – TI
+**Dados & BI:** SQL · PostgreSQL · ETL · Power BI · Data Quality · LGPD  
+**Back-end:** Python · FastAPI · Pandas · APIs REST  
+**Metodologias:** Six Sigma (DMAIC/PDCA) · Análise de Requisitos · Homologação  
 
-🎓 Formação Acadêmica
+---
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – IFSC Câmpus Tubarão (2022 – 2025)
-📘 Técnico em Informática integrado ao Ensino Médio – IFSC Câmpus Garopaba (2019 – 2021)
+## 💼 Experiência Profissional
 
+| Período | Empresa | Cargo |
+|---|---|---|
+| 11/2025 – atual | **Neogrid** | Analista de Data Quality Júnior |
+| 06/2025 – atual | **Freelancer** | Desenvolvedor Full Stack |
+| 09/2024 – 11/2025 | **Neogrid** | Estagiário – Data Quality |
+| 05/2024 – 09/2024 | **Selsyn Tecnologia** | Estagiário – TI |
+| 04/2022 – 04/2024 | **Santos Brasil (Porto de Imbituba)** | Jovem Aprendiz – TI |
 
-🏆 Conquistas & Certificações
+---
 
-🥋 Yellow Belt Six Sigma – Metodologias DMAIC e PDCA aplicadas à melhoria contínua e qualidade de dados
-🎤 20º Congresso Latino-americano de Software Livre e Tecnologias Abertas (FISL) – Participação em palestras e workshops sobre inovação e arquitetura de software
+## 🎓 Formação Acadêmica
 
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** – IFSC Câmpus Tubarão *(2022 – 2025)*  
+- 📘 **Técnico em Informática integrado ao Ensino Médio** – IFSC Câmpus Garopaba *(2019 – 2021)*
 
-📊 Estatísticas do GitHub
+---
+
+## 🏆 Conquistas & Certificações
+
+- 🥋 **Yellow Belt Six Sigma** – Metodologias DMAIC e PDCA aplicadas à melhoria contínua e qualidade de dados  
+- 🎤 **20º Congresso Latino-americano de Software Livre e Tecnologias Abertas (FISL)** – Participação em palestras e workshops sobre inovação e arquitetura de software  
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davirafaells&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davirafaells&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
 </p>
 
+---
+
 <p align="center">
-  <i>"Dados bem tratados contam histórias que transformam decisões."</i>
-</p>
+  <i>"Dados bem tratados contam hi
