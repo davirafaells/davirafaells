@@ -19,7 +19,7 @@
 
 ---
 
-##  Sobre mim
+## 🙋‍♂️ Sobre mim
 
 Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e engenharia de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, entregando soluções SaaS com pipelines ETL e integrações via API REST.
 
@@ -42,7 +42,6 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" align="middle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" align="middle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
 </p>
 
@@ -84,7 +83,3 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davirafaells&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davirafaells&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
-
-
