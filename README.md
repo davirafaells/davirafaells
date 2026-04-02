@@ -19,7 +19,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+##  Sobre mim
 
 Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e engenharia de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, entregando soluções SaaS com pipelines ETL e integrações via API REST.
 
@@ -85,7 +85,6 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davirafaells&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
-<p align="center">
-  <i>"Dados bem tratados contam hi
+
+
