@@ -7,11 +7,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davirafaelsilva" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-davirafaelsilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:davirafaels@hotmail.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" height="32" alt="Email" />
+    <img src="https://img.shields.io/badge/Outlook-davirafaels@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" height="32" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/davirafaells">
