@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Davi Rafael Silva 👋</h1>
+<h1 align="center">Olá, sou Davi Rafael Silva </h1>
 
 <p align="center">
   <b>Analista de Data Quality | Desenvolvedor Full Stack Freelancer</b><br/>
@@ -7,17 +7,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davirafaelsilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-davirafaelsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#84e0e5f2edf6e5e2e5e1e8f7c4ecebf0e9e5ede8aae7ebe9">
-    <img src="https://img.shields.io/badge/Email-davirafaels@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  &nbsp;
+  <a href="mailto:davirafaels@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" height="32" alt="Email" />
   </a>
-  
+  &nbsp;
+  <a href="https://github.com/davirafaells">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-##  Sobre mim
+## 🙋‍♂️ Sobre mim
 
 Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de Santa Catarina (IFSC), com atuação focada em **qualidade e engenharia de dados**. Atualmente trabalho como **Analista de Data Quality Júnior na Neogrid**, onde processo e valido grandes volumes de dados para clientes de grandes indústrias, além de atuar como **Desenvolvedor Full Stack Freelancer**, entregando soluções SaaS com pipelines ETL e integrações via API REST.
 
