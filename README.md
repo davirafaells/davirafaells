@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Davi Rafael Silva 👋</h1>
+<h1 align="center">Olá, sou Davi Rafael Silva </h1>
 
 <p align="center">
   <b>Analista de Data Quality | Desenvolvedor Freelancer</b><br/>
