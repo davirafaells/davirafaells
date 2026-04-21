@@ -106,6 +106,28 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 | QR Code | html5-qrcode |
 | Build APK | Android Studio + Gradle |
 
+### Plataforma SaaS de BI e Análise de Dados
+> Plataforma SaaS voltada à centralização de informações financeiras e comerciais, com ingestão de arquivos, tratamento de dados e visualização de indicadores para apoio à tomada de decisão.
+
+**O que faz:**
+- Permite upload de arquivos CSV com mapeamento dinâmico de colunas
+- Possui formulário para lançamentos manuais e centralização de dados financeiros e comerciais
+- Executa rotinas de tratamento e validação de dados durante a importação
+- Realiza upsert automático de produtos não cadastrados, preservando a integridade dos dados
+- Disponibiliza dashboard com indicadores de faturamento e métricas comerciais
+- Mantém histórico dos registros com funcionalidade de soft delete
+
+**Stack:**
+
+| Camada | Tecnologia |
+|---|---|
+| Backend | Python + FastAPI + SQLAlchemy |
+| Banco de Dados | PostgreSQL |
+| Frontend | React + TypeScript + Tailwind CSS |
+| Validação | Pydantic |
+| Manipulação de CSV | PapaParse |
+| Arquitetura | Multi-tenant |
+
 ---
 
 📊 Estatísticas do GitHub
