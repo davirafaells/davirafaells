@@ -106,7 +106,7 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 | QR Code | html5-qrcode |
 | Build APK | Android Studio + Gradle |
 
-### Plataforma SaaS de BI e Análise de Dados
+### [Plataforma SaaS de BI e Análise de Dados](https://github.com/davirafaells/Sistema-SaaS-de-Analytics-e-Indicadores-de-Vendas)
 > Plataforma SaaS voltada à centralização de informações financeiras e comerciais, com ingestão de arquivos, tratamento de dados e visualização de indicadores para apoio à tomada de decisão.
 
 **O que faz:**
@@ -130,7 +130,8 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 
 ---
 
-📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
+
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davirafaells&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davirafaells&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
