@@ -51,7 +51,7 @@ Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Fede
 **Dados & BI:** SQL · PostgreSQL · ETL · Power BI · Data Quality · LGPD  
 **Back-end:** Python · FastAPI · Pandas · APIs REST · PHP  
 **Mobile:** Capacitor · SQLite · Android  
-**Metodologias:** Six Sigma (DMAIC/PDCA) · Análise de Requisitos · Homologação  
+**Metodologias:** Six Sigma (DMAIC/PDCA) · Análise de Requisitos 
 
 ---
 
